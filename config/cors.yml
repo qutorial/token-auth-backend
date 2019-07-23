@@ -1,0 +1,7 @@
+development:
+  allowed-origins:
+    - "*"
+production:
+  allowed-origins:
+    - "https://vulnswatch.com"
+    - "https://www.vulnswatch.com"
